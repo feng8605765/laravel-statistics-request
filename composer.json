@@ -1,6 +1,6 @@
 {
-    "name": "yqy/yqy-helper",
-    "description": "yqy-helper",
+    "name": "gio/yqy-helper",
+    "description": "gio yqy-helper",
     "type": "project",
     "authors": [
         {
@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=7.0.0."
     },
     "autoload": {
         "psr-4": {
