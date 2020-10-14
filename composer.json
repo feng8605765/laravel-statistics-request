@@ -2,6 +2,7 @@
     "name": "gio/yqy-helper",
     "description": "gio yqy-helper",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "丁不四",
