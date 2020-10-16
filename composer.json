@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Yqy\\Test\\": "helper/Yqy/Test"
+            "Yqy\\Helper\\": "src/Yqy/Helper"
         }
     }
 }
